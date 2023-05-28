@@ -6,10 +6,10 @@ Structural patterns are concerned with how classes and objects are composed to f
 
 ## Types of Structural Patterns
 
-* [Adapter](#adapter)
-* [Bridge](#bridge)
-* [Composite](#composite)
-* [Decorator](#decorator)
-* [Facade](#facade)
-* [Flyweight](#flyweight)
-* [Proxy](#proxy)
+* [Adapter](/Structural-Patterns/Adapter/README.md)
+* [Bridge](/Structural-Patterns/Bridge/README.md)
+* [Composite](/Structural-Patterns/Composite/README.md)
+* [Decorator](/Structural-Patterns/Decorator/README.md)
+* [Facade](/Structural-Patterns/Facade/README.md)
+* [Flyweight](/Structural-Patterns/Flyweight/README.md)
+* [Proxy](/Structural-Patterns/Proxy/README.md)
