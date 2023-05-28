@@ -1,5 +1,3 @@
-"Abstract factory"
-
 import random
 
 
