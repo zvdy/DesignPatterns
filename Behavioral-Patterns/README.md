@@ -15,5 +15,5 @@ Behavioral patterns are concerned with algorithms and the assignment of responsi
 * [Observer](/Behavioral-Patterns/Observer/README.md)
 * [State](/Behavioral-Patterns/State/README.md)
 * [Strategy](/Behavioral-Patterns/Strategy/README.md)
-* [Template Method](/Behavioral-Patterns/Template-Method/README.md)
+* [Template Method](/Behavioral-Patterns/Template-method/README.md)
 * [Visitor](/Behavioral-Patterns/Visitor/README.md)

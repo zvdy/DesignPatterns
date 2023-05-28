@@ -6,9 +6,9 @@ Creational patterns are concerned with the way of creating objects. These patter
 
 ## Types of Creational Patterns
 
-* [Abstract Factory](/Creational-Patterns/Abstract-Factory/README.md)
+* [Abstract Factory](/Creational-Patterns/Abstract-factory/README.md)
 * [Builder](/Creational-Patterns/Builder/README.md)
-* [Factory Method](/Creational-Patterns/Factory-Method/README.md)
+* [Factory Method](/Creational-Patterns/Factory-method/README.md)
 * [Prototype](/Creational-Patterns/Prototype/README.md)
 * [Singleton](/Creational-Patterns/Singleton/README.md)
 
