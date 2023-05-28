@@ -1,5 +1,9 @@
 # Chain of Responsability
 
+## Intent
+
+Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it.
+
 ## Application
 * When you want to give more than one object the opportunity to handle a request, and you don't want to specify the receiver explicitly.
 * When you want to issue a request to one of several objects without specifying the receiver explicitly.
