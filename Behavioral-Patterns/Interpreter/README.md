@@ -14,7 +14,7 @@ Given a language, define a representation for its grammar along with an interpre
 
 ## Diagram
 
-![Interpreter](https://upload.wikimedia.org/wikipedia/commons/b/bf/Interpreter_Design_Pattern_Diagram.png)
+![Interpreter](https://upload.wikimedia.org/wikipedia/commons/3/33/W3sDesign_Interpreter_Design_Pattern_UML.jpg)
 
 ## Participants
 
