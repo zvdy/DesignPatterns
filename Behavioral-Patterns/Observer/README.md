@@ -6,7 +6,13 @@ Observer is a behavioral design pattern that lets you define a subscription mech
 
 # Application
 
-Observer is pretty common in Java code. It’s a core part of the JDK’s [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html) package, and is provided by many other libraries. That’s why it’s crucial to understand this pattern and know how to apply it to real-world systems.
+Use the Observer pattern when
+
+* when an abstraction has two aspects, one dependent on the other. Encapsulating these aspects in separate objects lets you vary and reuse them independently.
+
+* when a change to one object requires changing others, and you don't know how many objects need to be changed.
+
+* when an object should be able to notify other objects without making assumptions about who these objects are. In other words, you don't want these objects tightly coupled.
 
 # Diagram
 
